@@ -43,6 +43,11 @@ Install extensions in [Visual Studio Code](https://code.visualstudio.com/):
 Open and trust the project folder and configure the project as asked by the CMake Tools. Choose "Visual Studio Community 20xx Release - **x86**" as active build kit. Only platform "x86" is supported as build target right now.
 
 
-##Updated usage
-#For single files use: ```ConverterExample -f D:\Some_GR2_File.GR2```
-#For entire directories use: ```ConverterExample -d D:\Folder_With_GR2_Files```
+### Usage
+For single files use
+
+```ConverterExample -f D:\Some_GR2_File.GR2```
+
+For entire directories use
+
+```ConverterExample -d D:\Folder_With_GR2_Files```
