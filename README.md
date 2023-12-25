@@ -45,5 +45,5 @@ Open and trust the project folder and configure the project as asked by the CMak
 ## How to use
 Go to example "ConverterExample" in folder `examples/converter` to see how to use the library in an console application.
 ##Updated usage:
-For single files use: ConverterExample -f D:\Some_GR2_File.GR2
-For entire directories use: ConverterExample -d D:\Folder_With_GR2_Files
+-For single files use: ```ConverterExample -f D:\Some_GR2_File.GR2```
+-For entire directories use: ```ConverterExample -d D:\Folder_With_GR2_Files```
